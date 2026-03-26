@@ -1,10 +1,6 @@
 # GymTracking
 
-A personal, ad-free iOS app for tracking workouts, exercises, and gym membership costs. Built entirely with SwiftUI and SwiftData — no third-party dependencies.
-
-## Why
-
-Commercial fitness apps are bloated with ads, subscriptions, and features nobody asked for. This app does exactly what I need, nothing more.
+A personal iOS app for tracking workouts, exercises, and gym membership costs. Built with SwiftUI and SwiftData — no third-party dependencies.
 
 ## Features
 
